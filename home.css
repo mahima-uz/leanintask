@@ -1,0 +1,113 @@
+#main-heading{
+    text-align:center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 1;
+    font-size: 100px;
+    color:black;
+    text-shadow: 0px 5px #a74fa7;
+
+    margin-top: 50px;
+
+}
+#eq{
+    text-align:center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 1;
+    font-size: 70px;
+    color:black;
+    text-shadow: 0px 5px #a74fa7;
+}
+BODY{
+    background-color: #C8A2C8;
+}
+.hiu{
+    width:500px;
+    height:320px;
+    margin-top: 20;
+    
+    margin-left: 420;
+    margin-right: 50;
+  
+
+}
+img {
+    box-shadow: 0px 0px 20px black;
+  }
+ .introduction{
+     text-align:center;
+     font-size:35px;
+     text-decoration:bold;
+     font-family: 'Ubuntu Condensed', sans-serif;
+     text-shadow:0px 2.5px #706b70;
+     font-weight:bold;
+     padding:30px;
+ } 
+ .lol{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-weight:bold;
+   
+    font-size:30px;
+   
+ }
+.para{
+    font-family: 'Cabin', sans-serif;
+    font-size:20px;
+    margin-left:20px;
+    margin-right:20px;
+    
+}
+.hi{
+    height:200px;
+    margin-left:450px;
+
+}
+#youtube{
+    
+    font-size:30px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    
+}
+#video{
+    margin-left:400px;
+    box-shadow: 0px 0px 20px black;
+}
+a{
+    padding:20px;
+    text-decoration:none;
+    float:left;
+    font-size: 20px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+   
+    
+}
+.nom{
+ text-decoration:none;
+
+ width:100%; 
+}
+footer{
+    background-color: #a74fa7;
+}
+
+
+nav{
+
+    background-color:#a74fa7;
+    height:80px;
+    width:100%;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    margin: none;
+}
+nav ul {
+    float:right;
+}
+nav ul li {
+    display:inline-block;
+    padding:20 px;
+    
+    
+
+}
+nav ul li a{ 
+    color:#C8A2C8;
+}
